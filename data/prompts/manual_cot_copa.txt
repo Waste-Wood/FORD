@@ -1,0 +1,11 @@
+Q: My body cast a shadow over the grass. What was the cause of this? Answer Choices: (A) The sun was rising. (B) The grass was cut.
+A: The cause of your body casting a shadow over the grass is due to the presence of a light source, in this case, the sun. When the sun is rising (or setting), it creates an angle that casts shadows on the ground. Therefore, the answer is (A).
+
+Q: The driver got pulled over by the police. What was the cause of this? Answer Choices: (A) He was parking. (B) He was speeding.
+A: Speeding is a common traffic violation that results in drivers being stopped by law enforcement. Therefore, the answer is (B).
+
+Q: Several witnesses of the crime testified against the suspect. What happened as a result? Answer Choices: (A) The suspect was acquitted. (B) The suspect was convicted.
+A: If several witnesses testified against the suspect, it would likely provide strong evidence for the prosecution, making it more probable that the suspect would be convicted. Therefore, the answer is (B).
+
+Q: The company's profits started to level off. What happened as a result? Answer Choices: (A) It increased its marketing efforts for new products. (B) It moved its headquarters to a suburban location.
+A: If the company's profits started to level off, it is more likely that they would try to boost sales and revenue by increasing marketing efforts for new products. Therefore, the answer is (A).

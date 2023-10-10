@@ -1,0 +1,11 @@
+Q: There is a light rain today. What happened as a result? Answer Choices: (A) The roots of many plants are not moistened by rain. (B) Tourists have seen many ripples.
+A: Light rain may not be enough to penetrate the soil deeply and reach the roots of many plants, which can cause the roots to remain dry. Therefore, the answer is (A).
+
+Q: All devices inside were turned off. What was the cause of this? Answer Choices: (A) The beaker was broken down. (B) We have to reduced the energy consumption in that room to zero.
+A: Turning off all devices inside a room to reduce energy consumption to zero is an unusual and extreme measure and is not a likely cause of all devices inside being turned off. Therefore, the answer is (B).
+
+Q: There are increased eosinophils in the blood. What happened as a result? Answer Choices: (A) There is no lesion. (B) It is the benign lesion of gastric carcinoma.
+A: There is no clear link between increased eosinophils in the blood and gastric carcinoma.  Therefore, the answer is (B).
+
+Q: Water molecules couldn't enter the mycobateria freely due to its outter membrane. What was the cause of this? Answer Choices: (A) The mycobacteria was put in water solution. (B) The Ammonium based fertilizers led to the process of nitrification to nitrate in the soil.
+A: Mycobacteria have a unique outer membrane that is resistant to water, and when placed in a water solution, water molecules may be unable to penetrate the outer membrane and enter the bacterial cell. Therefore, the answer is (A)

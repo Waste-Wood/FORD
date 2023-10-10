@@ -1,0 +1,4 @@
+2023-10-10 16:17:45,266 INFO    : [HPS]: Namespace(api='', batch_size=10, candidate='./output/debate_chatgpt_davinci/round0', dataset='ecare', log_dir='./logger', log_name='debate_ecare.txt', max_tokens=512, mode='debate', model='gpt-3.5-turbo', num_sequences=1, output_dir='./output/debate_chatgpt_davinci/round1_chatgpt', run=3, temperature=0.0)
+2023-10-10 16:17:45,266 INFO    : [API Key]: 
+2023-10-10 16:17:45,266 INFO    : [Data]: ecare
+2023-10-10 16:17:45,266 INFO    : [Model]: gpt-3.5-turbo

@@ -1,0 +1,500 @@
+{"index": 501, "Q": "The item was packaged in bubble wrap. What was the cause of this?", "O": "(A) It was fragile. (B) It was small.", "A": "(A)"}
+{"index": 502, "Q": "I emptied my pockets. What happened as a result?", "O": "(A) I retrieved a ticket stub. (B) I found a weapon.", "A": "(A)"}
+{"index": 503, "Q": "Termites invaded the house. What happened as a result?", "O": "(A) The termites disappeared from the house. (B) The termites ate through the wood in the house.", "A": "(B)"}
+{"index": 504, "Q": "The travelers reached the border. What happened as a result?", "O": "(A) The patrol agent checked their passports. (B) The patrol agent accused them of smuggling.", "A": "(A)"}
+{"index": 505, "Q": "The office was closed. What was the cause of this?", "O": "(A) It was a holiday. (B) It was summer.", "A": "(A)"}
+{"index": 506, "Q": "The girl ran out of energy. What was the cause of this?", "O": "(A) She played checkers. (B) She jumped rope.", "A": "(B)"}
+{"index": 507, "Q": "The woman lost her place in line. What was the cause of this?", "O": "(A) More people entered the line. (B) She stepped out of the line.", "A": "(B)"}
+{"index": 508, "Q": "The girl pinched her nose. What was the cause of this?", "O": "(A) The baby drooled on her bib. (B) The baby soiled her diaper.", "A": "(B)"}
+{"index": 509, "Q": "The band played their hit song. What happened as a result?", "O": "(A) The audience clapped along to the music. (B) The audience politely listened in silence.", "A": "(A)"}
+{"index": 510, "Q": "The girl wanted to thank her math teacher. What happened as a result?", "O": "(A) The girl stayed after school for detention. (B) The girl brought the teacher an apple.", "A": "(B)"}
+{"index": 511, "Q": "The young campers felt scared. What was the cause of this?", "O": "(A) Their camp counselor told them a ghost story. (B) They toasted marshmallows on the campfire.", "A": "(A)"}
+{"index": 512, "Q": "The man hit his head. What happened as a result?", "O": "(A) He got lost in thought. (B) He got a concussion.", "A": "(B)"}
+{"index": 513, "Q": "The check I wrote bounced. What was the cause of this?", "O": "(A) My bank account was empty. (B) I earned a pay raise.", "A": "(A)"}
+{"index": 514, "Q": "The man's email inbox was full of spam. What happened as a result?", "O": "(A) He deleted the spam. (B) He sent out a mass email.", "A": "(A)"}
+{"index": 515, "Q": "The sailor was quarantined. What was the cause of this?", "O": "(A) He was exposed to the disease. (B) He recovered from the disease.", "A": "(A)"}
+{"index": 516, "Q": "The girl memorized the code. What was the cause of this?", "O": "(A) She recited it to herself. (B) She forgot to write it down.", "A": "(A)"}
+{"index": 517, "Q": "I poured the water into the glass. What happened as a result?", "O": "(A) The water quenched my thirst. (B) The glass became full.", "A": "(B)"}
+{"index": 518, "Q": "The man remained silent when his friend finishing speaking. What was the cause of this?", "O": "(A) He wanted to offer his friend support. (B) He was thinking about his friend's words.", "A": "(B)"}
+{"index": 519, "Q": "The accident was my fault. What happened as a result?", "O": "(A) I felt guilty. (B) I pressed charges.", "A": "(A)"}
+{"index": 520, "Q": "The chain came apart. What was the cause of this?", "O": "(A) The chain was wrapped around a tire. (B) There was a broken link in the chain.", "A": "(B)"}
+{"index": 521, "Q": "The couple decided to compromise. What was the cause of this?", "O": "(A) They grew tired of arguing. (B) They avoided discussing the problem.", "A": "(A)"}
+{"index": 522, "Q": "The woman decided to run for public office. What happened as a result?", "O": "(A) She hired a campaign manager. (B) She testified in court.", "A": "(A)"}
+{"index": 523, "Q": "The man anticipated cold weather on his trip. What happened as a result?", "O": "(A) He packed warm clothing in his suitcase. (B) He travelled with a big suitcase.", "A": "(A)"}
+{"index": 524, "Q": "The student knew the answer to the question. What happened as a result?", "O": "(A) He raised his hand. (B) He goofed off.", "A": "(A)"}
+{"index": 525, "Q": "The man's eyes watered. What was the cause of this?", "O": "(A) Dust got into his eyes. (B) He put goggles over his eyes.", "A": "(A)"}
+{"index": 526, "Q": "The player won five games in a row. What happened as a result?", "O": "(A) Her opponent accused her of cheating. (B) Her opponent felt sorry for her.", "A": "(A)"}
+{"index": 527, "Q": "The teacher tore up the student's exam. What was the cause of this?", "O": "(A) He caught the student cheating. (B) The student's answers were incorrect.", "A": "(A)"}
+{"index": 528, "Q": "I paused to stop talking. What was the cause of this?", "O": "(A) I lost my voice. (B) I ran out of breath.", "A": "(B)"}
+{"index": 529, "Q": "The frozen food thawed. What was the cause of this?", "O": "(A) I put it in the microwave. (B) I covered it with plastic wrap.", "A": "(A)"}
+{"index": 530, "Q": "The employee faked sick. What was the cause of this?", "O": "(A) He had stomach cramps. (B) He wanted a day off.", "A": "(B)"}
+{"index": 531, "Q": "The girl landed in the pool. What was the cause of this?", "O": "(A) She ran on the pool deck. (B) She jumped off the diving board.", "A": "(B)"}
+{"index": 532, "Q": "The movie tickets sold out. What was the cause of this?", "O": "(A) It was opening day for the movie. (B) The movie received poor reviews.", "A": "(A)"}
+{"index": 533, "Q": "The man lost weight. What happened as a result?", "O": "(A) People isolated him. (B) People complimented him.", "A": "(B)"}
+{"index": 534, "Q": "The girl's hands became blistered. What was the cause of this?", "O": "(A) She typed up a letter. (B) She climbed up a rope.", "A": "(B)"}
+{"index": 535, "Q": "The circus performer juggled while riding a unicycle. What happened as a result?", "O": "(A) The audience cheered in astonishment. (B) The acrobat swung from a trapeze.", "A": "(A)"}
+{"index": 536, "Q": "I lost my patience. What was the cause of this?", "O": "(A) My friend kept me waiting. (B) My friend arrived on time.", "A": "(A)"}
+{"index": 537, "Q": "The warring countries wanted peace. What happened as a result?", "O": "(A) They developed nuclear weapons. (B) They negotiated a treaty.", "A": "(B)"}
+{"index": 538, "Q": "The man took sleeping medication. What happened as a result?", "O": "(A) He became drowsy. (B) He ran a fever.", "A": "(A)"}
+{"index": 539, "Q": "The woman bumped into the sofa. What happened as a result?", "O": "(A) The leg of the sofa came loose. (B) She bruised her knee.", "A": "(B)"}
+{"index": 540, "Q": "The boy squeezed the balloon. What happened as a result?", "O": "(A) The balloon popped. (B) The balloon flew away.", "A": "(A)"}
+{"index": 541, "Q": "They travelers checked into their hotel room. What happened as a result?", "O": "(A) They unpacked their suitcases. (B) They went to the airport.", "A": "(A)"}
+{"index": 542, "Q": "I bit into the peach. What happened as a result?", "O": "(A) The peach bruised. (B) Juice spilled out.", "A": "(B)"}
+{"index": 543, "Q": "My hands became sticky. What was the cause of this?", "O": "(A) I ate a doughnut. (B) I had a sweet tooth.", "A": "(A)"}
+{"index": 544, "Q": "I pushed the door. What happened as a result?", "O": "(A) The door opened. (B) The door locked.", "A": "(A)"}
+{"index": 545, "Q": "Activists boycotted the products. What was the cause of this?", "O": "(A) The products were tested for quality assurance. (B) The products were manufactured through child labor.", "A": "(B)"}
+{"index": 546, "Q": "I drilled a hole in the wall. What happened as a result?", "O": "(A) A mouse crawled out of the hole. (B) Dust blew out of the hole.", "A": "(B)"}
+{"index": 547, "Q": "The woman felt envious of her sister. What was the cause of this?", "O": "(A) Her sister was happy. (B) Her sister got divorced.", "A": "(A)"}
+{"index": 548, "Q": "I spilled wine on my shirt. What happened as a result?", "O": "(A) I put on an apron. (B) I changed my shirt.", "A": "(B)"}
+{"index": 549, "Q": "The cashier opened the cash register. What was the cause of this?", "O": "(A) The customer searched his wallet. (B) The customer handed her money.", "A": "(B)"}
+{"index": 550, "Q": "The street musician attracted a crowd. What happened as a result?", "O": "(A) People gave him change. (B) He sent the crowd away.", "A": "(A)"}
+{"index": 551, "Q": "The little boy cried to his babysitter. What was the cause of this?", "O": "(A) He missed his parents. (B) It was snack time.", "A": "(A)"}
+{"index": 552, "Q": "The pilot's radar detected a storm. What happened as a result?", "O": "(A) The pilot navigated away from the storm. (B) The pilot flew through the storm.", "A": "(A)"}
+{"index": 553, "Q": "The tree shed its leaves. What happened as a result?", "O": "(A) The leaves turned colors. (B) The leaves accumulated on the ground.", "A": "(B)"}
+{"index": 554, "Q": "The boy was in a mischievous mood. What happened as a result?", "O": "(A) He decided to play a card game with his sister. (B) He decided to play a practical joke on his sister.", "A": "(B)"}
+{"index": 555, "Q": "The child complained that he had to go to the bathroom. What happened as a result?", "O": "(A) His father gave him a soda to drink. (B) His father stopped the car at a gas station.", "A": "(B)"}
+{"index": 556, "Q": "The child sprinkled fish food into the tank. What happened as a result?", "O": "(A) The fish leapt out of the tank. (B) The fish swam towards the food.", "A": "(B)"}
+{"index": 557, "Q": "The woman's political views changed. What happened as a result?", "O": "(A) She switched her party affiliation. (B) She engaged in a protest.", "A": "(A)"}
+{"index": 558, "Q": "The bathroom sink was clogged. What happened as a result?", "O": "(A) I turned on the faucet. (B) I poured drain cleaner into it.", "A": "(B)"}
+{"index": 559, "Q": "The passengers got off the train. What was the cause of this?", "O": "(A) The train arrived at the station. (B) The train blared its whistle.", "A": "(A)"}
+{"index": 560, "Q": "The man pressed down on the moist flap of the envelope. What happened as a result?", "O": "(A) He put a stamp on the envelope. (B) He sealed the envelope shut.", "A": "(B)"}
+{"index": 561, "Q": "The friends lost touch. What was the cause of this?", "O": "(A) They enjoyed each other's company. (B) They moved to different cities.", "A": "(B)"}
+{"index": 562, "Q": "The accountant mismanaged the company's funds. What happened as a result?", "O": "(A) She was fired from her position. (B) She went on maternity leave.", "A": "(A)"}
+{"index": 563, "Q": "I looked at the clock. What was the cause of this?", "O": "(A) I heard the clock tick. (B) I wanted to check the time.", "A": "(B)"}
+{"index": 564, "Q": "My hand cramped up. What was the cause of this?", "O": "(A) I wrote the essay by hand. (B) My wife and I held hands.", "A": "(A)"}
+{"index": 565, "Q": "The bolt tightened. What was the cause of this?", "O": "(A) I replaced the bolt. (B) I twisted the wrench.", "A": "(B)"}
+{"index": 566, "Q": "The couple signed a lease for an apartment. What happened as a result?", "O": "(A) The couple moved into the apartment. (B) The city condemned the apartment.", "A": "(A)"}
+{"index": 567, "Q": "The woman sat outside on the porch. What was the cause of this?", "O": "(A) She wanted to watch the sunset. (B) She thought she saw lightning.", "A": "(A)"}
+{"index": 568, "Q": "The man wore a lifejacket in the water. What was the cause of this?", "O": "(A) He couldn't swim. (B) The water was shallow.", "A": "(A)"}
+{"index": 569, "Q": "The woman made a typo in the word processor. What happened as a result?", "O": "(A) She deleted the document. (B) She hit the backspace key.", "A": "(B)"}
+{"index": 570, "Q": "The girl bragged to her friends. What was the cause of this?", "O": "(A) She got a bad grade. (B) She won a contest.", "A": "(B)"}
+{"index": 571, "Q": "The lawn was muddy. What was the cause of this?", "O": "(A) It poured overnight. (B) It was full of weeds.", "A": "(A)"}
+{"index": 572, "Q": "The woman overslept. What was the cause of this?", "O": "(A) She stayed the night in a hotel. (B) She forgot to set her alarm clock.", "A": "(B)"}
+{"index": 573, "Q": "The man put on sunscreen. What was the cause of this?", "O": "(A) He sat in the shade. (B) He went to the beach.", "A": "(B)"}
+{"index": 574, "Q": "The researchers proved the theory. What happened as a result?", "O": "(A) The researchers retracted the theory. (B) Individuals accepted the theory.", "A": "(B)"}
+{"index": 575, "Q": "The fans at the game booed. What was the cause of this?", "O": "(A) The game went into overtime. (B) The referee made a bad call.", "A": "(B)"}
+{"index": 576, "Q": "I entered my combination on the lock. What happened as a result?", "O": "(A) I shut the lock. (B) The lock popped open.", "A": "(B)"}
+{"index": 577, "Q": "The crowd intensified. What happened as a result?", "O": "(A) The father handed his son some money. (B) The father grabbed his son's hand.", "A": "(B)"}
+{"index": 578, "Q": "The snow was blocking the driveway. What happened as a result?", "O": "(A) I gathered the snow into a snowball. (B) I shoveled the snow out of the way.", "A": "(B)"}
+{"index": 579, "Q": "The kayakers paddled their oars. What happened as a result?", "O": "(A) The kayak reached the shore. (B) The kayak hit a wave.", "A": "(A)"}
+{"index": 580, "Q": "The girl lost control of her bike. What happened as a result?", "O": "(A) She let go of the handlebars. (B) She crashed into a fence.", "A": "(B)"}
+{"index": 581, "Q": "I turned on the fan. What happened as a result?", "O": "(A) Water sprinkled onto my skin. (B) I felt cool air pass over me.", "A": "(B)"}
+{"index": 582, "Q": "The surfers returned to the beach. What was the cause of this?", "O": "(A) They were drenched. (B) They saw a shark.", "A": "(B)"}
+{"index": 583, "Q": "I pulled the drain plug in the bathtub. What happened as a result?", "O": "(A) The water drained out of the tub. (B) The water splashed onto the floor.", "A": "(A)"}
+{"index": 584, "Q": "The husband felt guilty about cheating on his wife. What happened as a result?", "O": "(A) He accused her of infidelity. (B) He confessed his infidelity to her.", "A": "(B)"}
+{"index": 585, "Q": "The ink on the poster smeared. What was the cause of this?", "O": "(A) I waited for the ink to dry. (B) I spilled water on the poster.", "A": "(B)"}
+{"index": 586, "Q": "The child woke up screaming. What was the cause of this?", "O": "(A) He had a nightmare. (B) He wet the bed.", "A": "(A)"}
+{"index": 587, "Q": "The boy put his feet up on the table. What happened as a result?", "O": "(A) His father sat down at the table. (B) His father lectured him.", "A": "(B)"}
+{"index": 588, "Q": "My friend turned his head in my direction. What was the cause of this?", "O": "(A) I shouted his name. (B) I waved my arms.", "A": "(A)"}
+{"index": 589, "Q": "The government oppressed its citizens. What happened as a result?", "O": "(A) The citizens staged a revolt. (B) The citizens registered to vote.", "A": "(A)"}
+{"index": 590, "Q": "The boy was lost in the woods. What happened as a result?", "O": "(A) He pitched a tent. (B) He screamed for help.", "A": "(B)"}
+{"index": 591, "Q": "The woman travelled abroad. What was the cause of this?", "O": "(A) She wanted to learn how to draw. (B) She wanted to learn about other cultures.", "A": "(B)"}
+{"index": 592, "Q": "The man was jealous of his coworker. What was the cause of this?", "O": "(A) His coworker got a promotion. (B) His coworker worked late.", "A": "(A)"}
+{"index": 593, "Q": "The man witnessed aliens. What was the cause of this?", "O": "(A) He was hallucinating. (B) He was meditating.", "A": "(A)"}
+{"index": 594, "Q": "The man's hair turned blonde. What was the cause of this?", "O": "(A) He put bleach in it. (B) He put shampoo in it.", "A": "(A)"}
+{"index": 595, "Q": "The artist created new work. What was the cause of this?", "O": "(A) She critiqued her previous work. (B) She felt a stroke of inspiration.", "A": "(B)"}
+{"index": 596, "Q": "The son moved away from home. What was the cause of this?", "O": "(A) He was discharged from the military. (B) He was going to college.", "A": "(B)"}
+{"index": 597, "Q": "Books fell out of the bookcase. What was the cause of this?", "O": "(A) The shelves were covered with dust. (B) An earthquake shook the bookcase.", "A": "(B)"}
+{"index": 598, "Q": "The electricity in my house shut off. What happened as a result?", "O": "(A) I turned on a light. (B) I reset the circuit breaker.", "A": "(B)"}
+{"index": 599, "Q": "We rode the roller coaster. What was the cause of this?", "O": "(A) It looked scary. (B) It looked fun.", "A": "(B)"}
+{"index": 600, "Q": "The bag of popcorn began to pop. What was the cause of this?", "O": "(A) I poured butter into the bag. (B) I heated it in the microwave.", "A": "(B)"}
+{"index": 601, "Q": "A tree fell on the power line. What happened as a result?", "O": "(A) The electricity in the neighborhood went out. (B) The forecast predicted heavy winds.", "A": "(A)"}
+{"index": 602, "Q": "The speaker made politically incorrect comments. What happened as a result?", "O": "(A) He bored the audience. (B) He offended the audience.", "A": "(B)"}
+{"index": 603, "Q": "I pricked myself with the pin. What happened as a result?", "O": "(A) A bead of sweat dripped from my face. (B) A drop of blood formed on my finger.", "A": "(B)"}
+{"index": 604, "Q": "The fish floated on the surface of the tank. What was the cause of this?", "O": "(A) It was hungry. (B) It was dead.", "A": "(B)"}
+{"index": 605, "Q": "The man's voice sounded hoarse. What was the cause of this?", "O": "(A) He had a cold. (B) He quit smoking.", "A": "(A)"}
+{"index": 606, "Q": "The elevator doors opened. What was the cause of this?", "O": "(A) The elevator arrived at the designated floor. (B) The elevator got stuck between floors.", "A": "(A)"}
+{"index": 607, "Q": "The teenager snuck out of the house. What was the cause of this?", "O": "(A) He lied to his parents. (B) His parents grounded him.", "A": "(B)"}
+{"index": 608, "Q": "The bathroom flooded. What was the cause of this?", "O": "(A) The toilet overflowed. (B) The water heater broke.", "A": "(A)"}
+{"index": 609, "Q": "The puppy stayed near its owner. What was the cause of this?", "O": "(A) The owner put a collar on the puppy. (B) The owner kept the puppy on a leash.", "A": "(B)"}
+{"index": 610, "Q": "The man caught his reflection. What was the cause of this?", "O": "(A) He stood under the sprawling tree. (B) He stood over the calm lake.", "A": "(B)"}
+{"index": 611, "Q": "I missed my girlfriend's phone call. What happened as a result?", "O": "(A) I called her back. (B) I met her for dinner.", "A": "(A)"}
+{"index": 612, "Q": "The family searched the neighborhood. What was the cause of this?", "O": "(A) Their dog ran away from home. (B) Expensive jewelry was missing from their home.", "A": "(A)"}
+{"index": 613, "Q": "I saw my breath when I exhaled. What was the cause of this?", "O": "(A) The weather was chilly. (B) My chest felt tight.", "A": "(A)"}
+{"index": 614, "Q": "The employees formed a union. What was the cause of this?", "O": "(A) They wanted better working conditions. (B) Their employer raised their wages.", "A": "(A)"}
+{"index": 615, "Q": "I baked an apple pie. What happened as a result?", "O": "(A) A rotting smell filled the kitchen. (B) A warm aroma filled the kitchen.", "A": "(B)"}
+{"index": 616, "Q": "The woman struggled to walk. What was the cause of this?", "O": "(A) She wore high heels. (B) She took off her shoes.", "A": "(A)"}
+{"index": 617, "Q": "Steam rose off of the pot of water. What was the cause of this?", "O": "(A) The water boiled. (B) I covered the pot.", "A": "(A)"}
+{"index": 618, "Q": "All my socks were in the laundry. What happened as a result?", "O": "(A) I wore sandals. (B) I wore boots.", "A": "(A)"}
+{"index": 619, "Q": "The politician's argument was considered absurd. What happened as a result?", "O": "(A) He lost the support of voters. (B) He was accused of corruption.", "A": "(A)"}
+{"index": 620, "Q": "Everyone disapproved of the couple's engagement. What happened as a result?", "O": "(A) The couple got pregnant. (B) The couple eloped.", "A": "(B)"}
+{"index": 621, "Q": "The building was dedicated to the millionaire. What was the cause of this?", "O": "(A) The millionaire wanted the building torn down. (B) The millionaire contributed the funds to build it.", "A": "(B)"}
+{"index": 622, "Q": "The sale associate accused the girl of stealing. What was the cause of this?", "O": "(A) The sales associate saw the girl put merchandise in her purse. (B) The sales associate helped the girl find the purse she liked.", "A": "(A)"}
+{"index": 623, "Q": "The country declared war on the neighboring territory. What happened as a result?", "O": "(A) Soldiers were sent out to fight. (B) Soldiers were reunited with their families.", "A": "(A)"}
+{"index": 624, "Q": "The court upheld the controversial ruling. What happened as a result?", "O": "(A) A riot broke loose in front of the courthouse. (B) A couple exchanged vows in front of the courthouse.", "A": "(A)"}
+{"index": 625, "Q": "The girl smelled something burning. What was the cause of this?", "O": "(A) She took the cookies out of the jar. (B) She left the cookies in the oven.", "A": "(B)"}
+{"index": 626, "Q": "The rain was pouring down. What happened as a result?", "O": "(A) The storm worsened. (B) I dashed to get inside.", "A": "(B)"}
+{"index": 627, "Q": "The building was evacuated. What was the cause of this?", "O": "(A) The elevator stopped functioning. (B) The fire alarm went off.", "A": "(B)"}
+{"index": 628, "Q": "The father resented his son's alcoholism. What happened as a result?", "O": "(A) The father bought his son a beer. (B) The father kicked his son out of the house.", "A": "(B)"}
+{"index": 629, "Q": "The lawyer took the stairs up to her office. What was the cause of this?", "O": "(A) The secretary went home for the day. (B) The elevator was out of order.", "A": "(B)"}
+{"index": 630, "Q": "The man became annoyed with his friend. What was the cause of this?", "O": "(A) His friend interrupted him. (B) His friend bought him lunch.", "A": "(A)"}
+{"index": 631, "Q": "The girl handed her money to the cashier. What happened as a result?", "O": "(A) The cashier gave the girl her change. (B) The cashier forgot to give the girl a receipt.", "A": "(A)"}
+{"index": 632, "Q": "The woman was put in a wheelchair. What was the cause of this?", "O": "(A) She was paralyzed in an accident. (B) She entered the hospital in a stretcher.", "A": "(A)"}
+{"index": 633, "Q": "Citizens hung the national flag up outside their homes. What was the cause of this?", "O": "(A) The country was commemorating its independence. (B) The country was facing economic hardship.", "A": "(A)"}
+{"index": 634, "Q": "The team lost the tournament. What happened as a result?", "O": "(A) They disappointed their fans. (B) They inspired their fans.", "A": "(A)"}
+{"index": 635, "Q": "My friend pointed out that I had food stuck in my teeth. What happened as a result?", "O": "(A) I felt embarrassed. (B) I felt proud.", "A": "(A)"}
+{"index": 636, "Q": "The boy failed his history exam. What was the cause of this?", "O": "(A) He paid attention in class. (B) He forgot to study.", "A": "(B)"}
+{"index": 637, "Q": "The downtown building collapsed. What was the cause of this?", "O": "(A) An earthquake hit the city. (B) Crime rates in the city increased.", "A": "(A)"}
+{"index": 638, "Q": "The man's girlfriend broke up with him. What happened as a result?", "O": "(A) He begged her to take him back. (B) She introduced him to her parents.", "A": "(A)"}
+{"index": 639, "Q": "The two children simultaneously reached down to retrieve the ball. What happened as a result?", "O": "(A) The ball rolled away. (B) Their heads collided.", "A": "(B)"}
+{"index": 640, "Q": "The raccoon ransacked the garbage can. What was the cause of this?", "O": "(A) There was cardboard in the garbage can. (B) The lid was off the garbage can.", "A": "(B)"}
+{"index": 641, "Q": "The boy sharpened the pencil. What was the cause of this?", "O": "(A) It was cheap. (B) It was dull.", "A": "(B)"}
+{"index": 642, "Q": "The cashier denied the woman a refund for the dress. What was the cause of this?", "O": "(A) She lost her receipt. (B) The dress didn't fit.", "A": "(A)"}
+{"index": 643, "Q": "The scratch in my skin was deep. What happened as a result?", "O": "(A) It healed quickly. (B) It left a scar.", "A": "(B)"}
+{"index": 644, "Q": "The man received strange looks from passengers on the train. What was the cause of this?", "O": "(A) He was staring at the ground. (B) He was talking to himself.", "A": "(B)"}
+{"index": 645, "Q": "The child left crumbs on the floor. What happened as a result?", "O": "(A) Ants crawled to the crumbs. (B) The child put the bread away.", "A": "(A)"}
+{"index": 646, "Q": "The woman handed her sister a tissue. What was the cause of this?", "O": "(A) The woman's sister folded her hands. (B) The woman's sister began to cry.", "A": "(B)"}
+{"index": 647, "Q": "The man took a mint. What was the cause of this?", "O": "(A) His lips were chapped. (B) He worried about bad breath.", "A": "(B)"}
+{"index": 648, "Q": "The couple left early for the show. What was the cause of this?", "O": "(A) They anticipated traffic around the theatre. (B) They got directions to the theatre.", "A": "(A)"}
+{"index": 649, "Q": "The woman stayed home from work. What happened as a result?", "O": "(A) Her boss praised her. (B) Her coworker covered for her.", "A": "(B)"}
+{"index": 650, "Q": "The man signed the activists' petition. What was the cause of this?", "O": "(A) He supported their cause. (B) He denounced them as crazy.", "A": "(A)"}
+{"index": 651, "Q": "The actor's heart was fluttering before his performance. What was the cause of this?", "O": "(A) He had stage fright. (B) He memorized his lines.", "A": "(A)"}
+{"index": 652, "Q": "I was lost. What happened as a result?", "O": "(A) I counted my cash. (B) I unfolded a map.", "A": "(B)"}
+{"index": 653, "Q": "The ripe fruit lingered in the sun. What happened as a result?", "O": "(A) It was eaten. (B) It shriveled up.", "A": "(B)"}
+{"index": 654, "Q": "The car broke down. What was the cause of this?", "O": "(A) I turned the ignition. (B) The engine overheated.", "A": "(B)"}
+{"index": 655, "Q": "The man hurt his back. What happened as a result?", "O": "(A) He went to see a psychiatrist. (B) He stayed in bed for several days.", "A": "(B)"}
+{"index": 656, "Q": "I started a fire in the fireplace. What was the cause of this?", "O": "(A) I was out of firewood. (B) It was cold in the house.", "A": "(B)"}
+{"index": 657, "Q": "The woman stopped jogging. What was the cause of this?", "O": "(A) She got a cramp in her side. (B) She got a second wind.", "A": "(A)"}
+{"index": 658, "Q": "I knocked on my neighbor's door. What happened as a result?", "O": "(A) My neighbor invited me in. (B) My neighbor left her house.", "A": "(A)"}
+{"index": 659, "Q": "The woman sighed with frustration. What was the cause of this?", "O": "(A) Her husband misunderstood her concerns. (B) Her husband kissed her goodbye.", "A": "(A)"}
+{"index": 660, "Q": "The teacher commended the student. What was the cause of this?", "O": "(A) The student answered the question correctly. (B) The student hesitated to answer the question.", "A": "(A)"}
+{"index": 661, "Q": "The woman ran out of eggs. What happened as a result?", "O": "(A) She went to the farm. (B) She went to the supermarket.", "A": "(B)"}
+{"index": 662, "Q": "I encountered an old friend. What happened as a result?", "O": "(A) I revealed a secret to him. (B) I gave him a hug.", "A": "(B)"}
+{"index": 663, "Q": "The woman avoided going in the lake. What was the cause of this?", "O": "(A) She caught a fish. (B) It looked contaminated.", "A": "(B)"}
+{"index": 664, "Q": "The student arrived to class soaking wet. What was the cause of this?", "O": "(A) His umbrella was broken. (B) His bike was stolen.", "A": "(A)"}
+{"index": 665, "Q": "The cursor on the computer screen moved. What was the cause of this?", "O": "(A) The user clicked the mouse. (B) The user shifted the mouse.", "A": "(B)"}
+{"index": 666, "Q": "The driver took a detour. What was the cause of this?", "O": "(A) An accident occurred on the main road. (B) She followed the truck in front of her.", "A": "(A)"}
+{"index": 667, "Q": "I hung the wet linen on the outdoor clothesline. What happened as a result?", "O": "(A) The linen dried. (B) The linen stained.", "A": "(A)"}
+{"index": 668, "Q": "The woman put on her shades. What was the cause of this?", "O": "(A) The sunlight was bright. (B) She hailed a cab.", "A": "(A)"}
+{"index": 669, "Q": "The man gazed at the night sky. What was the cause of this?", "O": "(A) He wished it were summer. (B) He thought it was beautiful.", "A": "(B)"}
+{"index": 670, "Q": "I felt exhausted. What happened as a result?", "O": "(A) I went to bed early. (B) I stayed up all night.", "A": "(A)"}
+{"index": 671, "Q": "The man went to the barber. What was the cause of this?", "O": "(A) He was growing out his hair. (B) His hair was getting long.", "A": "(B)"}
+{"index": 672, "Q": "The boy played mean tricks on his new classmate. What was the cause of this?", "O": "(A) The boy welcomed the new classmate. (B) The boy disliked the new classmate.", "A": "(B)"}
+{"index": 673, "Q": "I craved a glass of milk. What was the cause of this?", "O": "(A) I was eating cookies. (B) I was baking bread.", "A": "(A)"}
+{"index": 674, "Q": "It began to rain. What happened as a result?", "O": "(A) The driver turned on the headlights. (B) The driver shifted the car into reverse.", "A": "(A)"}
+{"index": 675, "Q": "The parking lot of the building was empty. What happened as a result?", "O": "(A) I parked across the street. (B) I parked near the entrance.", "A": "(B)"}
+{"index": 676, "Q": "The writer missed her deadline for the draft submission. What was the cause of this?", "O": "(A) She had writer's block. (B) She edited the draft.", "A": "(A)"}
+{"index": 677, "Q": "The associate hung up on me. What was the cause of this?", "O": "(A) I asked to speak to a supervisor. (B) I provided my identification number.", "A": "(A)"}
+{"index": 678, "Q": "The wind blew through the open window. What happened as a result?", "O": "(A) The doorbell rang. (B) The curtains shuddered.", "A": "(B)"}
+{"index": 679, "Q": "The electricity in my house shut off. What was the cause of this?", "O": "(A) I unplugged the lamp. (B) I blew a fuse.", "A": "(B)"}
+{"index": 680, "Q": "The weightlifter grunted. What was the cause of this?", "O": "(A) He flexed his muscles in the mirror. (B) He lifted the bar over his head.", "A": "(B)"}
+{"index": 681, "Q": "The student tried to do the math in his head. What happened as a result?", "O": "(A) He got out a calculator. (B) He got confused.", "A": "(B)"}
+{"index": 682, "Q": "The baby fell asleep. What was the cause of this?", "O": "(A) The father changed the baby's diaper. (B) The father gently rocked the baby.", "A": "(B)"}
+{"index": 683, "Q": "The girl threw the water balloon at the boy. What happened as a result?", "O": "(A) The boy got a concussion. (B) The boy got soaked.", "A": "(B)"}
+{"index": 684, "Q": "The photographer forgot to use the flash on the camera. What happened as a result?", "O": "(A) The photos turned out blurry. (B) Everyone in the photos refused to smile.", "A": "(A)"}
+{"index": 685, "Q": "I declined the invitation to the birthday party. What was the cause of this?", "O": "(A) I was lonely. (B) I was out of town.", "A": "(B)"}
+{"index": 686, "Q": "I exercised. What was the cause of this?", "O": "(A) I felt energetic. (B) I was scared.", "A": "(A)"}
+{"index": 687, "Q": "I squeezed the damp sponge. What happened as a result?", "O": "(A) It soaked up water. (B) Water seeped out of it.", "A": "(B)"}
+{"index": 688, "Q": "The vacationers took a ferry to the resort. What was the cause of this?", "O": "(A) The resort was booked. (B) The resort was on an island.", "A": "(B)"}
+{"index": 689, "Q": "The teenager got a tattoo. What was the cause of this?", "O": "(A) She was afraid of needles. (B) She wanted to rebel.", "A": "(B)"}
+{"index": 690, "Q": "An unfamiliar car parked outside my house. What happened as a result?", "O": "(A) I became suspicious. (B) I called the police.", "A": "(A)"}
+{"index": 691, "Q": "The criminal turned himself in. What was the cause of this?", "O": "(A) The evidence implicated him. (B)  There was no evidence against him.", "A": "(A)"}
+{"index": 692, "Q": "The heavyset man decided to lose weight. What happened as a result?", "O": "(A) He cut out sweets. (B) He avoided caffeine.", "A": "(A)"}
+{"index": 693, "Q": "The girl stepped on the ice. What happened as a result?", "O": "(A) She slid. (B) She shivered.", "A": "(A)"}
+{"index": 694, "Q": "The woman had rings under her eyes. What was the cause of this?", "O": "(A) She stayed up all night. (B) She put her son to bed.", "A": "(A)"}
+{"index": 695, "Q": "Lava flowed from the volcano. What was the cause of this?", "O": "(A) The volcano erupted. (B) The volcano was dormant.", "A": "(A)"}
+{"index": 696, "Q": "The woman put her shoes on. What was the cause of this?", "O": "(A) She knew everyone at the party. (B) She wanted to leave the party.", "A": "(B)"}
+{"index": 697, "Q": "I paid the tollbooth attendant. What happened as a result?", "O": "(A) She let me pass through the tollbooth. (B) She detained me at the tollbooth.", "A": "(A)"}
+{"index": 698, "Q": "The executive went bankrupt. What was the cause of this?", "O": "(A) He sold his company stock. (B) He squandered his fortune.", "A": "(B)"}
+{"index": 699, "Q": "The man went to the doctor. What was the cause of this?", "O": "(A) The doctor was on leave. (B) The man felt ill.", "A": "(B)"}
+{"index": 700, "Q": "I exited my bedroom through the window. What was the cause of this?", "O": "(A) The house was on fire. (B) The house was empty.", "A": "(A)"}
+{"index": 701, "Q": "The boy's fingers became pruny. What was the cause of this?", "O": "(A) He took a long shower. (B) He lathered his hands with soap.", "A": "(A)"}
+{"index": 702, "Q": "I spit out the milk. What was the cause of this?", "O": "(A) The milk tasted sour. (B) My mouth was dry.", "A": "(A)"}
+{"index": 703, "Q": "I missed the bus. What happened as a result?", "O": "(A) I was early to work. (B) I was late to work.", "A": "(B)"}
+{"index": 704, "Q": "The truck collided with the car. What happened as a result?", "O": "(A) The truck sped up. (B) The car got smashed.", "A": "(B)"}
+{"index": 705, "Q": "The team rigged the contest in their favor. What happened as a result?", "O": "(A) They won. (B)  They dropped out.", "A": "(A)"}
+{"index": 706, "Q": "The soda bottle hissed. What was the cause of this?", "O": "(A) I turned over the bottle. (B) I twisted off the cap.", "A": "(B)"}
+{"index": 707, "Q": "The boy was locked out of his house. What happened as a result?", "O": "(A) He crawled in through an open window. (B) He climbed up to the roof.", "A": "(A)"}
+{"index": 708, "Q": "The doorbell rang. What happened as a result?", "O": "(A) The visitor tapped the knocker on the door. (B) The woman peered through the keyhole in the door.", "A": "(B)"}
+{"index": 709, "Q": "The man stained his suit. What happened as a result?", "O": "(A) He got it dry-cleaned. (B) He hung it in his closet.", "A": "(A)"}
+{"index": 710, "Q": "The girl squeezed the tube of toothpaste. What happened as a result?", "O": "(A) The toothpaste squirted out of the tube. (B) The girl spit out the toothpaste.", "A": "(A)"}
+{"index": 711, "Q": "Civilian deaths from the war surged. What happened as a result?", "O": "(A) Pacifists staged a protest. (B) Pacifists held a parade.", "A": "(A)"}
+{"index": 712, "Q": "The girl yanked the ribbon out of her hair. What was the cause of this?", "O": "(A) She tied the ribbon. (B) The ribbon looked babyish.", "A": "(B)"}
+{"index": 713, "Q": "The man got plastic surgery. What happened as a result?", "O": "(A) He aged. (B) He looked younger.", "A": "(B)"}
+{"index": 714, "Q": "A baby chicken emerged from the egg. What was the cause of this?", "O": "(A) The egg hatched. (B) I cracked the egg.", "A": "(A)"}
+{"index": 715, "Q": "The prisoner starved. What happened as a result?", "O": "(A) He died. (B) He fled.", "A": "(A)"}
+{"index": 716, "Q": "The man lost his balance on the ladder. What happened as a result?", "O": "(A) He climbed up the ladder. (B) He fell off the ladder.", "A": "(B)"}
+{"index": 717, "Q": "The child burped. What was the cause of this?", "O": "(A) He took a swig of soda. (B) He opened the soda can.", "A": "(A)"}
+{"index": 718, "Q": "A cold draft came in through the window. What happened as a result?", "O": "(A) I relaxed. (B) I shivered.", "A": "(B)"}
+{"index": 719, "Q": "The student received a scholarship to go to college. What was the cause of this?", "O": "(A) Her classmates respected her. (B) She made good grades.", "A": "(B)"}
+{"index": 720, "Q": "The girl poked fun at the boy. What was the cause of this?", "O": "(A) She lived next door to him. (B) She had a crush on him.", "A": "(B)"}
+{"index": 721, "Q": "The hungry vagrant stole food. What was the cause of this?", "O": "(A) He incited pity. (B) He had no money.", "A": "(B)"}
+{"index": 722, "Q": "I called my friend to chat. What was the cause of this?", "O": "(A) I wanted privacy. (B) I felt lonely.", "A": "(B)"}
+{"index": 723, "Q": "The man extended his hand to me. What happened as a result?", "O": "(A) I shook his hand. (B) I slapped him.", "A": "(A)"}
+{"index": 724, "Q": "I ducked. What was the cause of this?", "O": "(A) The fireworks launched up in the air. (B) The frisbee soared towards my head.", "A": "(B)"}
+{"index": 725, "Q": "The girl bit her nails. What was the cause of this?", "O": "(A) She was worried. (B) She was surprised.", "A": "(A)"}
+{"index": 726, "Q": "I turned the page on the calendar. What was the cause of this?", "O": "(A) I marked an appointment on the calendar. (B) It was the beginning of a new month.", "A": "(B)"}
+{"index": 727, "Q": "The husband discovered that his wife was having an affair. What happened as a result?", "O": "(A) He fired his lawyer. (B) He filed for divorce.", "A": "(B)"}
+{"index": 728, "Q": "The girl dropped the rubber ball. What happened as a result?", "O": "(A) The ball bounced. (B) The ball glowed.", "A": "(A)"}
+{"index": 729, "Q": "The girl made a mistake on her exam. What happened as a result?", "O": "(A) She guessed at the answer. (B) She erased her answer.", "A": "(B)"}
+{"index": 730, "Q": "The player tackled his opponent. What happened as a result?", "O": "(A) His opponent caught the pass. (B) His opponent hit the ground.", "A": "(B)"}
+{"index": 731, "Q": "I picked the tomatoes from the vine. What was the cause of this?", "O": "(A) They were ripe. (B) I watered them.", "A": "(A)"}
+{"index": 732, "Q": "The man wanted to act romantic. What happened as a result?", "O": "(A) He met his ex-girlfriend for lunch. (B) He bought his girlfriend chocolates.", "A": "(B)"}
+{"index": 733, "Q": "The mercury in the thermometer rose. What was the cause of this?", "O": "(A) I dropped the thermometer. (B) The weather got warmer.", "A": "(B)"}
+{"index": 734, "Q": "A tornado came through the town. What happened as a result?", "O": "(A) The roof of the courthouse blew off. (B) The highway became dangerously icy.", "A": "(A)"}
+{"index": 735, "Q": "The student received tutoring. What happened as a result?", "O": "(A) His grades improved. (B) He cheated on the exam.", "A": "(A)"}
+{"index": 736, "Q": "I felt comfortable. What was the cause of this?", "O": "(A) I kneeled down on the ground. (B) I wrapped myself in a blanket.", "A": "(B)"}
+{"index": 737, "Q": "I polished the stone. What happened as a result?", "O": "(A) It became slippery. (B) It became shiny.", "A": "(B)"}
+{"index": 738, "Q": "I added sugar to the coffee. What happened as a result?", "O": "(A) The coffee smelled strong. (B) The coffee tasted sweet.", "A": "(B)"}
+{"index": 739, "Q": "The man shuffled through the papers. What happened as a result?", "O": "(A) He got a paper cut. (B) He shredded the papers.", "A": "(A)"}
+{"index": 740, "Q": "I pounded the nail with the hammer. What happened as a result?", "O": "(A) The nail sunk into the wood. (B) The nail became rusty.", "A": "(A)"}
+{"index": 741, "Q": "The fish bit the line. What happened as a result?", "O": "(A) The fisherman reeled in the fish. (B) The fisherman recast the line.", "A": "(A)"}
+{"index": 742, "Q": "The teenager was embarrassed to go to school. What was the cause of this?", "O": "(A) She got a pimple. (B) She got her braces off.", "A": "(A)"}
+{"index": 743, "Q": "My facial expression lit up. What was the cause of this?", "O": "(A) I received good news. (B) I lost my patience.", "A": "(A)"}
+{"index": 744, "Q": "I wiped my hands with a towel. What was the cause of this?", "O": "(A) The towel was wet. (B) My hands were wet.", "A": "(B)"}
+{"index": 745, "Q": "The man lost his balance on the stool. What was the cause of this?", "O": "(A) The stool wobbled underneath him. (B) He spilled paint on the stool.", "A": "(A)"}
+{"index": 746, "Q": "The teammates directed blame at each other. What was the cause of this?", "O": "(A) They lost their game. (B) Their coach cancelled practice.", "A": "(A)"}
+{"index": 747, "Q": "I asked for forgiveness. What was the cause of this?", "O": "(A) I regretted my mistake. (B) I achieved my goal.", "A": "(A)"}
+{"index": 748, "Q": "The woman became bored with her date. What was the cause of this?", "O": "(A) He asked her questions about herself. (B) He talked incessantly about himself.", "A": "(B)"}
+{"index": 749, "Q": "The girl flashed a smile. What happened as a result?", "O": "(A) Her cheeks reddened. (B) Her dimples showed.", "A": "(B)"}
+{"index": 750, "Q": "The enemy ship blew up. What was the cause of this?", "O": "(A) It passed over the mine. (B) It sailed into the harbor.", "A": "(A)"}
+{"index": 751, "Q": "The man punctured his foot. What was the cause of this?", "O": "(A) He walked into a puddle. (B) He stepped on broken glass.", "A": "(B)"}
+{"index": 752, "Q": "The detectives dusted the crime scene for fingerprints. What happened as a result?", "O": "(A) They discovered the identity of the murderer. (B) They found the weapon at the crime scene.", "A": "(A)"}
+{"index": 753, "Q": "There was a lot of traffic on the highway. What happened as a result?", "O": "(A) I took a detour. (B) I asked for a ride.", "A": "(A)"}
+{"index": 754, "Q": "The nation's economy declined. What happened as a result?", "O": "(A) Many people got sick. (B) Many people faced unemployment.", "A": "(B)"}
+{"index": 755, "Q": "The crossing guard blew her whistle at the children. What was the cause of this?", "O": "(A) They were about to walk into oncoming traffic. (B) She recognized them from her neighborhood.", "A": "(A)"}
+{"index": 756, "Q": "I rolled my eyes at my friend. What was the cause of this?", "O": "(A) He told me the truth. (B) He made a sarcastic remark.", "A": "(B)"}
+{"index": 757, "Q": "The car ran out of gas. What happened as a result?", "O": "(A) The driver was stranded on the road. (B) The driver picked up a hitchhiker.", "A": "(A)"}
+{"index": 758, "Q": "The woman went into labor. What happened as a result?", "O": "(A) The baby was delivered. (B) The woman had morning sickness.", "A": "(A)"}
+{"index": 759, "Q": "The man's hat blew away. What was the cause of this?", "O": "(A) He took off the hat. (B) It was windy outside.", "A": "(B)"}
+{"index": 760, "Q": "The girl attended her classmate's birthday party. What was the cause of this?", "O": "(A) She received an invitation. (B) She bought a gift.", "A": "(A)"}
+{"index": 761, "Q": "The boy's forehead felt hot. What happened as a result?", "O": "(A) His mother took his temperature. (B) His mother took him to the park.", "A": "(A)"}
+{"index": 762, "Q": "The man sprayed himself with cologne. What was the cause of this?", "O": "(A) He wanted to impress his date. (B) He put gel in his hair.", "A": "(A)"}
+{"index": 763, "Q": "The electricity in the house shut off. What happened as a result?", "O": "(A) I looked for a flashlight. (B) I picked up a shovel.", "A": "(A)"}
+{"index": 764, "Q": "The family moved into a bigger house. What was the cause of this?", "O": "(A) The son graduated from high school. (B) The mother gave birth to twins.", "A": "(B)"}
+{"index": 765, "Q": "The marathoner kept at a slow pace. What was the cause of this?", "O": "(A) She wanted to conserve her energy. (B) She saw the finish line.", "A": "(A)"}
+{"index": 766, "Q": "The boy kicked the vending machine. What was the cause of this?", "O": "(A) The machine spit out the change. (B) The bag of chips was stuck.", "A": "(B)"}
+{"index": 767, "Q": "My friend's dog died. What happened as a result?", "O": "(A) I rolled my eyes at him. (B) I gave him a hug.", "A": "(B)"}
+{"index": 768, "Q": "The businessman's credit card got declined. What happened as a result?", "O": "(A) He wrote an IOU. (B) He paid with cash.", "A": "(B)"}
+{"index": 769, "Q": "The man cursed. What was the cause of this?", "O": "(A) He clipped his nails. (B) He stubbed his toe.", "A": "(B)"}
+{"index": 770, "Q": "The man felt proud of his brother. What was the cause of this?", "O": "(A) His brother got in an argument with their parents. (B) His brother got accepted into law school.", "A": "(B)"}
+{"index": 771, "Q": "The girl wanted to learn about the solar system. What happened as a result?", "O": "(A) She went to the library. (B) She looked at the stars.", "A": "(A)"}
+{"index": 772, "Q": "The poster stuck to the wall. What was the cause of this?", "O": "(A) I positioned the poster above the door. (B) I put tape on the back of the poster.", "A": "(B)"}
+{"index": 773, "Q": "The client approved the architect's plans for the building. What happened as a result?", "O": "(A) The architect constructed the building. (B) The architect adjusted the plans.", "A": "(A)"}
+{"index": 774, "Q": "The man dropped his spoon. What was the cause of this?", "O": "(A) His hand was shaking. (B) He licked the spoon.", "A": "(A)"}
+{"index": 775, "Q": "The CEO of the company resigned. What happened as a result?", "O": "(A) The board of directors dissolved the company. (B) The board of directors found his replacement.", "A": "(B)"}
+{"index": 776, "Q": "I arrived late to the lecture. What happened as a result?", "O": "(A) I took a seat in the back row. (B) I approached the podium.", "A": "(A)"}
+{"index": 777, "Q": "The man was released from jail. What was the cause of this?", "O": "(A) His family paid his bail. (B) He attacked a fellow inmate.", "A": "(A)"}
+{"index": 778, "Q": "The family lost all their belongings. What was the cause of this?", "O": "(A) They sold their house. (B) Their house caught fire.", "A": "(B)"}
+{"index": 779, "Q": "I stomped on the aluminum can. What happened as a result?", "O": "(A) The can was recycled. (B) The can got crushed.", "A": "(B)"}
+{"index": 780, "Q": "The girl joined the debate team. What happened as a result?", "O": "(A) She learned to use a computer. (B) She learned communication skills.", "A": "(B)"}
+{"index": 781, "Q": "My mood improved. What was the cause of this?", "O": "(A) I listened to music. (B) I did the dishes.", "A": "(A)"}
+{"index": 782, "Q": "The charity made a goal to raise money. What happened as a result?", "O": "(A) They fed the homeless. (B) They held an auction.", "A": "(B)"}
+{"index": 783, "Q": "The roller coaster plunged down the steep drop. What happened as a result?", "O": "(A) The passengers giggled. (B) The passengers screamed.", "A": "(B)"}
+{"index": 784, "Q": "I was furious. What happened as a result?", "O": "(A) I checked the mailbox upon leaving the house. (B) I slammed the door upon leaving the house.", "A": "(B)"}
+{"index": 785, "Q": "The man wanted to watch the sunrise. What happened as a result?", "O": "(A) He travelled north. (B) He got up early.", "A": "(B)"}
+{"index": 786, "Q": "I folded the paper. What happened as a result?", "O": "(A) I recycled the paper. (B) The paper creased.", "A": "(B)"}
+{"index": 787, "Q": "The nation endured a natural disaster. What happened as a result?", "O": "(A) Leaders of other countries formed an alliance. (B) Leaders of other countries sent emergency relief.", "A": "(B)"}
+{"index": 788, "Q": "The boy's clothes got soaked. What was the cause of this?", "O": "(A) He climbed out of the pool. (B) He fell into the pool.", "A": "(B)"}
+{"index": 789, "Q": "The student rushed to finish the book. What was the cause of this?", "O": "(A) It was due to be returned to the library. (B) He borrowed it from a friend.", "A": "(A)"}
+{"index": 790, "Q": "The criminal was executed. What was the cause of this?", "O": "(A) He was thrown in jail. (B) He was convicted of murder.", "A": "(B)"}
+{"index": 791, "Q": "Sunlight entered the room. What was the cause of this?", "O": "(A) I opened the curtains. (B) I unlocked the door.", "A": "(A)"}
+{"index": 792, "Q": "I yanked the imposter's hair. What happened as a result?", "O": "(A) Her wig came off. (B) She went bald.", "A": "(A)"}
+{"index": 793, "Q": "The editor reworded a sentence in the manuscript. What was the cause of this?", "O": "(A) He found the manuscript compelling. (B) He deemed the sentence unclear.", "A": "(B)"}
+{"index": 794, "Q": "The woman cancelled her credit card account. What was the cause of this?", "O": "(A) She realized the card was missing. (B) She realized the card was expired.", "A": "(A)"}
+{"index": 795, "Q": "The man and woman fell in love. What happened as a result?", "O": "(A) They attended college. (B) They got married.", "A": "(B)"}
+{"index": 796, "Q": "The music was too faint to hear. What happened as a result?", "O": "(A) I turned up the volume. (B) I composed my own song.", "A": "(A)"}
+{"index": 797, "Q": "The boy's hair was sticking up. What was the cause of this?", "O": "(A) The girl ruffled it. (B) The girl pulled it.", "A": "(A)"}
+{"index": 798, "Q": "The bug got squashed. What was the cause of this?", "O": "(A) I sprayed myself with bug repellent. (B) I stepped on the bug.", "A": "(B)"}
+{"index": 799, "Q": "I opened my eyes. What was the cause of this?", "O": "(A) I woke up. (B) I relaxed.", "A": "(A)"}
+{"index": 800, "Q": "My neighbor's music was blaring. What happened as a result?", "O": "(A) I asked him to turn it down. (B) I asked to borrow the CD from him.", "A": "(A)"}
+{"index": 801, "Q": "The man's family lived in poverty. What was the cause of this?", "O": "(A) He was frugal with his earnings. (B) He earned below minimum wage.", "A": "(B)"}
+{"index": 802, "Q": "The student graduated from the university. What happened as a result?", "O": "(A) He looked for a job. (B) He took up a hobby.", "A": "(A)"}
+{"index": 803, "Q": "The artist mixed yellow paint into blue paint. What happened as a result?", "O": "(A) The paint splattered everywhere. (B) The paint turned green.", "A": "(B)"}
+{"index": 804, "Q": "I changed the topic of conversation. What was the cause of this?", "O": "(A) I ran out of things to talk about. (B) The conversation became tense.", "A": "(B)"}
+{"index": 805, "Q": "My brother was released from the hospital. What happened as a result?", "O": "(A) I welcomed him back home. (B) I gave him the cold shoulder.", "A": "(A)"}
+{"index": 806, "Q": "The curtain on the stage went up. What happened as a result?", "O": "(A) The opening scene of the play began. (B) The actors in the play exited the stage.", "A": "(A)"}
+{"index": 807, "Q": "The hostage submitted to the kidnapper's mandates. What was the cause of this?", "O": "(A) The kidnapper threatened to hurt the hostage. (B) The kidnapper left the hostage by himself.", "A": "(A)"}
+{"index": 808, "Q": "A boom reverberated across the stage. What was the cause of this?", "O": "(A) The musician tapped his foot. (B) The musician pounded the drum.", "A": "(B)"}
+{"index": 809, "Q": "The parents rushed to their child's bedroom. What was the cause of this?", "O": "(A) The child awoke screaming from a nightmare. (B) The child was scared to look under her bed.", "A": "(A)"}
+{"index": 810, "Q": "The woman communicated with sign language. What was the cause of this?", "O": "(A) She was born premature. (B) She was born deaf.", "A": "(B)"}
+{"index": 811, "Q": "A drought occurred in the region. What happened as a result?", "O": "(A) The water became contaminated. (B) The crops perished.", "A": "(B)"}
+{"index": 812, "Q": "The cat chased the bird. What happened as a result?", "O": "(A) The bird flew away. (B) The bird caught a worm.", "A": "(A)"}
+{"index": 813, "Q": "The girl switched schools. What was the cause of this?", "O": "(A) School let out for the summer. (B) She moved to a new town.", "A": "(B)"}
+{"index": 814, "Q": "The factory owner refused to raise employees' wages. What happened as a result?", "O": "(A) The owner appointed a new manager. (B) The employees went on strike.", "A": "(B)"}
+{"index": 815, "Q": "The leader antagonized the extremists among his country. What happened as a result?", "O": "(A) The extremists influenced him. (B) The extremists assassinated him.", "A": "(B)"}
+{"index": 816, "Q": "I walked barefoot on the beach. What happened as a result?", "O": "(A) Sand stuck to my feet. (B) Waves crashed along the shore.", "A": "(A)"}
+{"index": 817, "Q": "I woke up in the middle of the night feeling cold. What happened as a result?", "O": "(A) I put sweatpants on. (B) I drank a glass of water.", "A": "(A)"}
+{"index": 818, "Q": "The mother hushed her son. What was the cause of this?", "O": "(A) Her son smirked. (B) Her son whined.", "A": "(B)"}
+{"index": 819, "Q": "A hole ripped in my jeans. What was the cause of this?", "O": "(A) I zipped up the jeans. (B) I tripped on the pavement.", "A": "(B)"}
+{"index": 820, "Q": "The boy wore braces. What happened as a result?", "O": "(A) He got a cavity. (B) His teeth became straight.", "A": "(B)"}
+{"index": 821, "Q": "I worked out at the gym yesterday. What happened as a result?", "O": "(A) I woke up today with sore muscles. (B) I woke up today with a sore throat.", "A": "(A)"}
+{"index": 822, "Q": "The girl whispered back and forth to each other at the lunch table. What happened as a result?", "O": "(A) Other students sat down at the lunch table. (B) Other students at the lunch table felt left out.", "A": "(B)"}
+{"index": 823, "Q": "The child landed on the trampoline. What happened as a result?", "O": "(A) She sprung back up into the air. (B) She decided to try to do a flip.", "A": "(A)"}
+{"index": 824, "Q": "I deposited the letter in the mailbox. What happened as a result?", "O": "(A) The post office delivered the letter. (B) The post office expedited the letter.", "A": "(A)"}
+{"index": 825, "Q": "The gambler was confident. What happened as a result?", "O": "(A) He bet all of his money. (B) He went home broke.", "A": "(A)"}
+{"index": 826, "Q": "The forest fire spread. What was the cause of this?", "O": "(A) The winds became stronger. (B) The arsonists were apprehended.", "A": "(A)"}
+{"index": 827, "Q": "The child skinned his knee. What happened as a result?", "O": "(A) His mother sent him to his room. (B) His mother put a bandage on the wound.", "A": "(B)"}
+{"index": 828, "Q": "The man survived the deadly illness. What was the cause of this?", "O": "(A) He signed his will. (B) He received an organ transplant.", "A": "(B)"}
+{"index": 829, "Q": "I took a sip of the scalding coffee. What happened as a result?", "O": "(A) I bit my tongue. (B) I burnt my tongue.", "A": "(B)"}
+{"index": 830, "Q": "The editor fired the writer. What was the cause of this?", "O": "(A) The writer avoided bias in her stories. (B) The writer missed an important deadline.", "A": "(B)"}
+{"index": 831, "Q": "I felt exhausted. What was the cause of this?", "O": "(A) I slept all day. (B) I studied all day.", "A": "(B)"}
+{"index": 832, "Q": "The physician diagnosed the patient. What was the cause of this?", "O": "(A) She identified the patient's symptoms. (B) She prescribed pills to the patient.", "A": "(A)"}
+{"index": 833, "Q": "I scratched my skin. What was the cause of this?", "O": "(A) It was sweaty. (B) It felt itchy.", "A": "(B)"}
+{"index": 834, "Q": "The man underwent emergency surgery. What was the cause of this?", "O": "(A) He lost his temper. (B) He suffered a heart attack.", "A": "(B)"}
+{"index": 835, "Q": "The man's arm muscles bulged. What was the cause of this?", "O": "(A) He flexed his arms. (B) He rubbed his arms.", "A": "(A)"}
+{"index": 836, "Q": "The man raised his eyebrows. What was the cause of this?", "O": "(A) He was surprised. (B) He felt discouraged.", "A": "(A)"}
+{"index": 837, "Q": "I excused my colleague's blunder. What was the cause of this?", "O": "(A) I believed his intentions were good. (B) I believed that he knew better.", "A": "(A)"}
+{"index": 838, "Q": "The man quit smoking. What happened as a result?", "O": "(A) He began exercising more. (B) He started waking up earlier.", "A": "(A)"}
+{"index": 839, "Q": "The woman punched her attacker in the nose. What happened as a result?", "O": "(A) The attacker's body went lifeless. (B) The attacker started to bleed.", "A": "(B)"}
+{"index": 840, "Q": "The dart missed the bull's eye. What was the cause of this?", "O": "(A) The man's aim was off. (B) The man was losing the game.", "A": "(A)"}
+{"index": 841, "Q": "The homeowner requested that an exterminator come to his house. What was the cause of this?", "O": "(A) He discovered rats in the basement. (B) He kept an ant farm in his room.", "A": "(A)"}
+{"index": 842, "Q": "I suggested to my houseguest that we go out to dinner. What was the cause of this?", "O": "(A) I was too tired to prepare anything. (B) My houseguest overstayed her welcome.", "A": "(A)"}
+{"index": 843, "Q": "The girl caught her brother reading her diary. What happened as a result?", "O": "(A) She started hiding the diary. (B) She got a new diary.", "A": "(A)"}
+{"index": 844, "Q": "The woman was short on money for rent. What happened as a result?", "O": "(A) She worked overtime. (B) She quit her job.", "A": "(A)"}
+{"index": 845, "Q": "The child's hand quickly recoiled. What was the cause of this?", "O": "(A) He touched the hot stove. (B) He patted the puppy's head.", "A": "(A)"}
+{"index": 846, "Q": "The company wanted to gauge customer satisfaction. What happened as a result?", "O": "(A) They offered a discount to new customers. (B) They distributed a survey to customers.", "A": "(B)"}
+{"index": 847, "Q": "The wood floor became scratched. What was the cause of this?", "O": "(A) The boy threw the cushions off the couch. (B) The boy dragged a chair across the floor.", "A": "(B)"}
+{"index": 848, "Q": "I shielded my face. What was the cause of this?", "O": "(A) My enemy taunted me. (B) My enemy cocked a fist.", "A": "(B)"}
+{"index": 849, "Q": "The famous statue burned down. What was the cause of this?", "O": "(A) It was struck by lightning. (B) People came to venerate it.", "A": "(A)"}
+{"index": 850, "Q": "I left the fruit out on the table. What happened as a result?", "O": "(A) The fruit shed seeds. (B) Flies swarmed the fruit.", "A": "(B)"}
+{"index": 851, "Q": "The ballerina tore a ligament. What was the cause of this?", "O": "(A) She pointed her toes. (B) She twisted her ankle.", "A": "(B)"}
+{"index": 852, "Q": "The child's shoelaces came untied. What was the cause of this?", "O": "(A) He learned how to tie them. (B) He ran around on the playground.", "A": "(B)"}
+{"index": 853, "Q": "I became enthralled in the book. What happened as a result?", "O": "(A) I returned the book. (B) I lost track of time.", "A": "(B)"}
+{"index": 854, "Q": "The man held similar beliefs to those of his parents. What was the cause of this?", "O": "(A) His parents influenced him. (B) His parents disowned him.", "A": "(A)"}
+{"index": 855, "Q": "The car gradually slowed to a stop. What was the cause of this?", "O": "(A) It ran out of gas. (B) The driver fell asleep.", "A": "(A)"}
+{"index": 856, "Q": "The man ate the ice cream in the sun. What happened as a result?", "O": "(A) The ice cream lost its flavor. (B) The ice cream dripped from the cone.", "A": "(B)"}
+{"index": 857, "Q": "I hung artwork in the room. What was the cause of this?", "O": "(A) The carpet looked dirty. (B) The walls looked bare.", "A": "(B)"}
+{"index": 858, "Q": "I left work early. What was the cause of this?", "O": "(A) I had a headache. (B) My boss held a meeting.", "A": "(A)"}
+{"index": 859, "Q": "The puppy soiled the carpet. What happened as a result?", "O": "(A) The owner scolded the puppy. (B) The owner gave the puppy a treat.", "A": "(A)"}
+{"index": 860, "Q": "I apologized to my friend. What happened as a result?", "O": "(A) My friend forgave me. (B) My friend became infuriated.", "A": "(A)"}
+{"index": 861, "Q": "The man stood out in the crowd. What was the cause of this?", "O": "(A) He carried a backpack. (B) He wore a neon vest.", "A": "(B)"}
+{"index": 862, "Q": "The witness lied under oath. What happened as a result?", "O": "(A) He completed his testimony. (B) He was charged with perjury.", "A": "(B)"}
+{"index": 863, "Q": "The woman dyed her hair. What was the cause of this?", "O": "(A) She wanted a new look. (B) She wanted to blend in.", "A": "(A)"}
+{"index": 864, "Q": "The immigrants were caught illegally residing in the country. What happened as a result?", "O": "(A) They found employment. (B) They were deported.", "A": "(B)"}
+{"index": 865, "Q": "The public speaker cracked a joke. What happened as a result?", "O": "(A) The audience laughed. (B) The audience stood up.", "A": "(A)"}
+{"index": 866, "Q": "I looked into the sun. What happened as a result?", "O": "(A) The sun blinded me. (B) The sun tanned my skin.", "A": "(A)"}
+{"index": 867, "Q": "I felt bored. What happened as a result?", "O": "(A) I snorted. (B) I yawned.", "A": "(B)"}
+{"index": 868, "Q": "The steak was difficult to cut. What was the cause of this?", "O": "(A) The knife was dull. (B) The steak was raw.", "A": "(A)"}
+{"index": 869, "Q": "The woman declared bankruptcy. What was the cause of this?", "O": "(A) She received alimony payment. (B) She acquired massive debt.", "A": "(B)"}
+{"index": 870, "Q": "The lights in my friend's apartment were on. What happened as a result?", "O": "(A) I wondered if he was out. (B) I decided to pay him a visit.", "A": "(B)"}
+{"index": 871, "Q": "I put the flower under my nose. What happened as a result?", "O": "(A) The petals came off the flower. (B) I picked up the flower's scent.", "A": "(B)"}
+{"index": 872, "Q": "The woman felt nostalgic. What was the cause of this?", "O": "(A) She ran into a childhood friend. (B) She yelled at her children.", "A": "(A)"}
+{"index": 873, "Q": "The student procrastinated on the paper. What happened as a result?", "O": "(A) He submitted the paper early. (B) He submitted the paper incomplete.", "A": "(B)"}
+{"index": 874, "Q": "My car broke down. What happened as a result?", "O": "(A) I went to the mall. (B) I called a mechanic.", "A": "(B)"}
+{"index": 875, "Q": "I discarded the note. What was the cause of this?", "O": "(A) It was anonymous. (B) It was illegible.", "A": "(B)"}
+{"index": 876, "Q": "The bird flapped its wings. What happened as a result?", "O": "(A) It laid eggs. (B) It ascended upwards.", "A": "(B)"}
+{"index": 877, "Q": "I parked in the driveway. What was the cause of this?", "O": "(A) The garage was open. (B) The garage was full.", "A": "(B)"}
+{"index": 878, "Q": "The criminal aimed the gun at his victim. What happened as a result?", "O": "(A) The criminal put down the gun. (B) The victim put his hands up.", "A": "(B)"}
+{"index": 879, "Q": "I looked forward to the weekend. What was the cause of this?", "O": "(A) I planned to attend my uncle's funeral. (B) I planned to attend my friend's wedding.", "A": "(B)"}
+{"index": 880, "Q": "I lost track of time. What was the cause of this?", "O": "(A) I was daydreaming. (B) I was nauseous.", "A": "(A)"}
+{"index": 881, "Q": "The document printed out illegibly. What was the cause of this?", "O": "(A) The printer was low on ink. (B) The print was out of paper.", "A": "(A)"}
+{"index": 882, "Q": "The stadium played the national anthem. What happened as a result?", "O": "(A) The fans turned to the flag. (B) The fans rushed the field.", "A": "(A)"}
+{"index": 883, "Q": "The dip tasted bland. What happened as a result?", "O": "(A) I served it. (B) I put salt in it.", "A": "(B)"}
+{"index": 884, "Q": "I set the paper towel on the spill. What happened as a result?", "O": "(A) The towel absorbed the liquid. (B) The spill left a sticky residue.", "A": "(A)"}
+{"index": 885, "Q": "The woman was interrupted in the midst of reading her book. What happened as a result?", "O": "(A) She bookmarked her page. (B) She reread the book.", "A": "(A)"}
+{"index": 886, "Q": "The plane hit some turbulence. What happened as a result?", "O": "(A) The man tightened his seatbelt. (B) The man looked out the window.", "A": "(A)"}
+{"index": 887, "Q": "The boy flinched. What was the cause of this?", "O": "(A) The girl ignored him. (B) The girl poked him.", "A": "(B)"}
+{"index": 888, "Q": "The doctors gave the patient an artificial limb. What was the cause of this?", "O": "(A) They amputated her leg. (B) They monitored her vitals.", "A": "(A)"}
+{"index": 889, "Q": "The boy pinched the girl's elbow. What happened as a result?", "O": "(A) She shrugged her shoulders at him. (B) She jerked her arm away from him.", "A": "(B)"}
+{"index": 890, "Q": "I asked my friend for advice. What was the cause of this?", "O": "(A) I valued his opinion. (B) I knew I was right.", "A": "(A)"}
+{"index": 891, "Q": "The boy stepped in mud. What happened as a result?", "O": "(A) The mud stuck to his shoes. (B) The mud hit him in the face.", "A": "(A)"}
+{"index": 892, "Q": "The town received several inches of snow. What happened as a result?", "O": "(A) Schools shut down. (B) People hid underground.", "A": "(A)"}
+{"index": 893, "Q": "The employee's shift ended. What happened as a result?", "O": "(A) He went home for the day. (B) He threatened to quit the job.", "A": "(A)"}
+{"index": 894, "Q": "The tree damaged the house. What was the cause of this?", "O": "(A) The tree fell onto the roof. (B) The tree shaded the backyard.", "A": "(A)"}
+{"index": 895, "Q": "The wood split in half. What was the cause of this?", "O": "(A) I stacked the wood in the fireplace. (B) I swung the axe down to the wood.", "A": "(B)"}
+{"index": 896, "Q": "The family congratulated the couple. What was the cause of this?", "O": "(A) The couple announced that they were separating. (B) The couple announced that they were having a baby.", "A": "(B)"}
+{"index": 897, "Q": "The girl sent the boy a valentine. What was the cause of this?", "O": "(A) She liked him. (B) She kissed him.", "A": "(A)"}
+{"index": 898, "Q": "I nodded my head at my friend's statement. What was the cause of this?", "O": "(A) I was confused. (B) I agreed with him.", "A": "(B)"}
+{"index": 899, "Q": "The friends flipped a coin. What was the cause of this?", "O": "(A) They wanted to find a compromise. (B) They wanted to make a fair decision.", "A": "(B)"}
+{"index": 900, "Q": "The timer in the kitchen went off. What happened as a result?", "O": "(A) The man unloaded the groceries into the refrigerator. (B) The man took the pizza out of the oven.", "A": "(B)"}
+{"index": 901, "Q": "The woman set an ambitious goal. What happened as a result?", "O": "(A) She slacked off. (B) She worked hard.", "A": "(B)"}
+{"index": 902, "Q": "The wealthy man died of old age. What happened as a result?", "O": "(A) His son got into legal trouble. (B) His son inherited his fortune.", "A": "(B)"}
+{"index": 903, "Q": "The woman stomped on the flames. What happened as a result?", "O": "(A) The flames went out. (B) Smoke arose from the flames.", "A": "(A)"}
+{"index": 904, "Q": "The woman's car was in the shop. What was the cause of this?", "O": "(A) Her driver's license was revoked. (B) She got in a car accident.", "A": "(B)"}
+{"index": 905, "Q": "I slept through my alarm. What happened as a result?", "O": "(A) I made breakfast. (B) I missed breakfast.", "A": "(B)"}
+{"index": 906, "Q": "The public figure got out of the limousine. What happened as a result?", "O": "(A) Cameras flashed in his direction. (B) His family attended the press conference.", "A": "(A)"}
+{"index": 907, "Q": "The woman lingered in the bathtub. What happened as a result?", "O": "(A) The bathwater became lukewarm. (B) The bathwater drained out of the tub.", "A": "(A)"}
+{"index": 908, "Q": "The college student wanted to meet other students on campus. What happened as a result?", "O": "(A) He joined a fraternity. (B) He majored in engineering.", "A": "(A)"}
+{"index": 909, "Q": "I lifted up the couch cushions. What was the cause of this?", "O": "(A) I was looking for loose change. (B) I was rearranging the living room.", "A": "(A)"}
+{"index": 910, "Q": "The wasp flew towards the boy. What happened as a result?", "O": "(A) The boy ran away. (B) The boy picked a flower.", "A": "(A)"}
+{"index": 911, "Q": "The woman was found guilty of a misdemeanor. What happened as a result?", "O": "(A) She was sentenced to perform community service. (B) She was put on death row.", "A": "(A)"}
+{"index": 912, "Q": "I stirred the sugar into the hot tea. What happened as a result?", "O": "(A) The tea steamed. (B) The sugar dissolved.", "A": "(B)"}
+{"index": 913, "Q": "The veteran walked with a limp. What was the cause of this?", "O": "(A) He was drafted for the war. (B) He was injured in battle.", "A": "(B)"}
+{"index": 914, "Q": "The criminal ran away from the police. What happened as a result?", "O": "(A) The police attended to the victim. (B) The police chased the criminal.", "A": "(B)"}
+{"index": 915, "Q": "The laptop wouldn't turn on. What was the cause of this?", "O": "(A) I dropped it. (B) I charged it.", "A": "(A)"}
+{"index": 916, "Q": "The woman ran out of room in her closet. What was the cause of this?", "O": "(A) She acquired an extensive wardrobe. (B) She folded her laundry.", "A": "(A)"}
+{"index": 917, "Q": "The man was heartbroken. What was the cause of this?", "O": "(A) His wife gave birth. (B) His wife left him.", "A": "(B)"}
+{"index": 918, "Q": "The man obtained a degree. What happened as a result?", "O": "(A) He became qualified for the job he wanted. (B) His job offer was rescinded.", "A": "(A)"}
+{"index": 919, "Q": "The man's voice projected clearly throughout the auditorium. What was the cause of this?", "O": "(A) He greeted the audience. (B) He spoke into the microphone.", "A": "(B)"}
+{"index": 920, "Q": "I tossed a coin into the fountain of water. What happened as a result?", "O": "(A) The coin sunk to the bottom. (B) The coin broke in half.", "A": "(A)"}
+{"index": 921, "Q": "The player hit the ball toward the hole. What happened as a result?", "O": "(A) The ball went in the hole. (B) The ball retreated back to the player.", "A": "(A)"}
+{"index": 922, "Q": "I breathed in the dust in the attic. What happened as a result?", "O": "(A) I hiccupped. (B) I sneezed.", "A": "(B)"}
+{"index": 923, "Q": "The store cashier called security. What was the cause of this?", "O": "(A) The customer used counterfeit money. (B) The customer left his headlights on.", "A": "(A)"}
+{"index": 924, "Q": "I took the garbage out. What was the cause of this?", "O": "(A) The garbage made the kitchen smell bad. (B) I accidentally threw away my shopping list.", "A": "(A)"}
+{"index": 925, "Q": "The family went to the zoo. What happened as a result?", "O": "(A) The children admired the animals. (B) The children chased the animals.", "A": "(A)"}
+{"index": 926, "Q": "The man's breathing was loud. What was the cause of this?", "O": "(A) His kidneys were failing. (B) His lungs were congested.", "A": "(B)"}
+{"index": 927, "Q": "I had an extra ticket for the concert. What happened as a result?", "O": "(A) I asked my friend for directions to the venue. (B) I asked my friend if he was interested in going.", "A": "(B)"}
+{"index": 928, "Q": "The air conditioner in the house broke. What happened as a result?", "O": "(A) I brought out blankets. (B) I opened the windows.", "A": "(B)"}
+{"index": 929, "Q": "The boy's back ached. What was the cause of this?", "O": "(A) His backpack was open. (B) His backpack was heavy.", "A": "(B)"}
+{"index": 930, "Q": "I bought my mother a present. What was the cause of this?", "O": "(A) I baked her a cake. (B) It was her birthday.", "A": "(B)"}
+{"index": 931, "Q": "The daffodils in the garden were destroyed. What was the cause of this?", "O": "(A) A bee stung the gardener. (B) Squirrels dug up the bulbs.", "A": "(B)"}
+{"index": 932, "Q": "I struck the match. What happened as a result?", "O": "(A) The flame faded out. (B) The match produced a flame.", "A": "(B)"}
+{"index": 933, "Q": "The disputing parties reached a settlement. What was the cause of this?", "O": "(A) They didn't want to debate in court. (B) They wanted to repair their personal relationship.", "A": "(A)"}
+{"index": 934, "Q": "The children were sent to an orphanage. What was the cause of this?", "O": "(A) Their parents died. (B) Their parents spoiled them.", "A": "(A)"}
+{"index": 935, "Q": "A meteorite landed in the ocean. What happened as a result?", "O": "(A) A tsunami occurred. (B) It began to hail.", "A": "(A)"}
+{"index": 936, "Q": "The hiker encountered a poisonous snake. What happened as a result?", "O": "(A) She became dehydrated. (B) She panicked.", "A": "(B)"}
+{"index": 937, "Q": "The oven became hot. What was the cause of this?", "O": "(A) I turned the oven on. (B) I put the dish in the oven.", "A": "(A)"}
+{"index": 938, "Q": "I squeezed the lemon wedge. What happened as a result?", "O": "(A) The lemon got moldy. (B) The lemon squirted.", "A": "(B)"}
+{"index": 939, "Q": "The country discovered new land. What happened as a result?", "O": "(A) The country abandoned the land. (B) The country colonized the land.", "A": "(B)"}
+{"index": 940, "Q": "The glass toppled off the table. What happened as a result?", "O": "(A) It shattered all over the floor. (B) It landed in a pile of laundry.", "A": "(A)"}
+{"index": 941, "Q": "The table wobbled. What was the cause of this?", "O": "(A) The floor was uneven. (B) The floor was slippery.", "A": "(A)"}
+{"index": 942, "Q": "The father caught his son lying. What happened as a result?", "O": "(A) His son confessed the truth. (B) The father trusted his son.", "A": "(A)"}
+{"index": 943, "Q": "The man's head throbbed with pain. What happened as a result?", "O": "(A) He took cough syrup. (B) He took aspirin.", "A": "(B)"}
+{"index": 944, "Q": "The train slowed down. What was the cause of this?", "O": "(A) It was approaching the station. (B) It was running behind schedule.", "A": "(A)"}
+{"index": 945, "Q": "The man went through therapy. What was the cause of this?", "O": "(A) Mental illness ran in his family. (B) He was diagnosed with depression.", "A": "(B)"}
+{"index": 946, "Q": "The woman clutched her throat. What was the cause of this?", "O": "(A) She swallowed her food. (B) She choked on her food.", "A": "(B)"}
+{"index": 947, "Q": "The woman had a sore throat. What happened as a result?", "O": "(A) Her voice sounded raspy. (B) She spoke with an accent.", "A": "(A)"}
+{"index": 948, "Q": "The dog eyed the juicy steak on the table. What happened as a result?", "O": "(A) It drooled. (B) It laid down.", "A": "(A)"}
+{"index": 949, "Q": "The woman's business succeeded. What happened as a result?", "O": "(A) She fired her employees. (B) She became wealthy.", "A": "(B)"}
+{"index": 950, "Q": "The students exited the classroom. What was the cause of this?", "O": "(A) The bell rang. (B) The teacher assigned homework.", "A": "(A)"}
+{"index": 951, "Q": "The woman claimed she saw a ghost. What happened as a result?", "O": "(A) Her acquaintances expressed skepticism. (B) Her acquaintances related to her.", "A": "(A)"}
+{"index": 952, "Q": "The man lost his hearing. What was the cause of this?", "O": "(A) He nearly drowned in the ocean. (B) He was nearly killed in an explosion.", "A": "(B)"}
+{"index": 953, "Q": "The child let go of the balloon string. What happened as a result?", "O": "(A) The balloon deflated. (B) The balloon rose into the air.", "A": "(B)"}
+{"index": 954, "Q": "The man lost his ability to speak. What was the cause of this?", "O": "(A) He had a stroke. (B) He took a deep breath.", "A": "(A)"}
+{"index": 955, "Q": "The woman tripped on the sidewalk. What was the cause of this?", "O": "(A) There was a crack in the cement. (B) She heard her name being called.", "A": "(A)"}
+{"index": 956, "Q": "The man did a canon ball into the pool. What happened as a result?", "O": "(A) The lifeguard jumped in after him. (B) The man soaked the lifeguard.", "A": "(B)"}
+{"index": 957, "Q": "I took antibiotics. What happened as a result?", "O": "(A) My infection cleared up. (B) My infection spread.", "A": "(A)"}
+{"index": 958, "Q": "The traffic light turned yellow. What happened as a result?", "O": "(A) The driver pushed the brake. (B) The driver honked his horn.", "A": "(A)"}
+{"index": 959, "Q": "The plastic container melted. What was the cause of this?", "O": "(A) I soaked the container in warm water. (B) I placed the container on the hot stove.", "A": "(B)"}
+{"index": 960, "Q": "The car got dented. What was the cause of this?", "O": "(A) The driver hit a telephone pole. (B) The driver ran a red light.", "A": "(A)"}
+{"index": 961, "Q": "The boy studied all night. What happened as a result?", "O": "(A) He skipped the exam. (B) He passed the exam.", "A": "(B)"}
+{"index": 962, "Q": "The young boy clung to the ledge of the pool. What was the cause of this?", "O": "(A) He feared learning to swim. (B) The lifeguard was on duty.", "A": "(A)"}
+{"index": 963, "Q": "I put my hand to my chest. What happened as a result?", "O": "(A) I felt my heartbeat. (B) My heart rate sped up.", "A": "(A)"}
+{"index": 964, "Q": "The building adjacent to my office was under construction. What happened as a result?", "O": "(A) My office was crowded. (B) My office was noisy.", "A": "(B)"}
+{"index": 965, "Q": "The family wanted to get to know their new neighbors. What happened as a result?", "O": "(A) The family invited the neighbors over for dinner. (B) The family waved to the neighbors from their yard.", "A": "(A)"}
+{"index": 966, "Q": "Water splashed up from the pool. What was the cause of this?", "O": "(A) The swimmer dove into the pool. (B) The swimmer floated in the pool.", "A": "(A)"}
+{"index": 967, "Q": "I bit into a slice of watermelon. What happened as a result?", "O": "(A) I accidentally swallowed a seed. (B) I accidentally chipped my tooth.", "A": "(A)"}
+{"index": 968, "Q": "The boy tripped. What was the cause of this?", "O": "(A) His jacket was unzipped. (B) His shoelaces were untied.", "A": "(B)"}
+{"index": 969, "Q": "The woman put earplugs in. What was the cause of this?", "O": "(A) She was distracted by noise. (B) She got her ears pierced.", "A": "(A)"}
+{"index": 970, "Q": "I refilled my water bottle. What was the cause of this?", "O": "(A) I drank all the water in it. (B) I kept it in the fridge.", "A": "(A)"}
+{"index": 971, "Q": "The television show was censored. What was the cause of this?", "O": "(A) It contained vulgar language. (B) It had a complicated plot.", "A": "(A)"}
+{"index": 972, "Q": "The ship wrecked. What happened as a result?", "O": "(A) The crew drowned. (B) The crew encountered pirates.", "A": "(A)"}
+{"index": 973, "Q": "The boy felt stumped by the riddle. What happened as a result?", "O": "(A) He solved the riddle. (B) He requested a hint.", "A": "(B)"}
+{"index": 974, "Q": "The phone rang. What happened as a result?", "O": "(A) The man hung up the phone. (B) The man picked up the phone.", "A": "(B)"}
+{"index": 975, "Q": "The woman was staring at me. What happened as a result?", "O": "(A) I hugged her. (B) I felt uncomfortable.", "A": "(B)"}
+{"index": 976, "Q": "The group left the museum. What was the cause of this?", "O": "(A) They took pictures of the exhibits. (B) They viewed all the exhibits.", "A": "(B)"}
+{"index": 977, "Q": "The man started an argument with me. What happened as a result?", "O": "(A) My friend introduced me to the man. (B) My friend stood up for me.", "A": "(B)"}
+{"index": 978, "Q": "The tire on my bike was flat. What happened as a result?", "O": "(A) I pumped air into the tire. (B) I switched gears on the bike.", "A": "(A)"}
+{"index": 979, "Q": "The girl looked pale. What happened as a result?", "O": "(A) Her father read her a story. (B) Her father felt her forehead.", "A": "(B)"}
+{"index": 980, "Q": "The pen ran out of ink. What happened as a result?", "O": "(A) I used a pencil. (B) I signed my name.", "A": "(A)"}
+{"index": 981, "Q": "The man was denied for a loan. What was the cause of this?", "O": "(A) He was in debt. (B) He started a business.", "A": "(A)"}
+{"index": 982, "Q": "The girl stayed home from school. What was the cause of this?", "O": "(A) She had chicken pox. (B) She enjoyed learning math.", "A": "(A)"}
+{"index": 983, "Q": "The trash bag was full. What happened as a result?", "O": "(A) I took it to the dumpster. (B) I dumped it down the sink.", "A": "(A)"}
+{"index": 984, "Q": "I vacuumed the carpet. What was the cause of this?", "O": "(A) My roommate spilled punch. (B) My dog shed hair.", "A": "(B)"}
+{"index": 985, "Q": "The man lost his temper. What happened as a result?", "O": "(A) He turned off his computer. (B) He threw a chair across the room.", "A": "(B)"}
+{"index": 986, "Q": "The girl threw a twig into the campfire. What happened as a result?", "O": "(A) The twig burned. (B) The fire went out.", "A": "(A)"}
+{"index": 987, "Q": "The man got out of the shower. What was the cause of this?", "O": "(A) The hot water was gone. (B) He couldn't find a towel.", "A": "(A)"}
+{"index": 988, "Q": "The parents wanted their children to go to college. What happened as a result?", "O": "(A) They set aside a savings fund for tuition. (B) They encouraged their children to play outside.", "A": "(A)"}
+{"index": 989, "Q": "The man unlaced his shoes. What happened as a result?", "O": "(A) The shoes loosened. (B) The shoes became worn.", "A": "(A)"}
+{"index": 990, "Q": "The man ate half of the entree. What happened as a result?", "O": "(A) He refrigerated the leftovers. (B) He saved the recipe.", "A": "(A)"}
+{"index": 991, "Q": "My ankle was swollen. What happened as a result?", "O": "(A) I put ice on it. (B) I rubbed lotion on it.", "A": "(A)"}
+{"index": 992, "Q": "My office door was open. What happened as a result?", "O": "(A) I talked to my colleague at my desk. (B) I overheard the conversation in the hall.", "A": "(B)"}
+{"index": 993, "Q": "I had to wait in line. What happened as a result?", "O": "(A) I took a seat. (B) I skimmed a magazine.", "A": "(B)"}
+{"index": 994, "Q": "The man swatted at the fly. What happened as a result?", "O": "(A) The fly buzzed away. (B) The fly stayed still.", "A": "(A)"}
+{"index": 995, "Q": "The man wrote a will. What was the cause of this?", "O": "(A) He was dying. (B) He was a widower.", "A": "(A)"}
+{"index": 996, "Q": "The runner sensed his competitor gaining on him. What happened as a result?", "O": "(A) He dropped out of the race. (B) He sped up his pace.", "A": "(B)"}
+{"index": 997, "Q": "I thought carefully about the problem. What happened as a result?", "O": "(A) I asked for advice. (B) I came up with a solution.", "A": "(B)"}
+{"index": 998, "Q": "The traveler walked on the shaky suspension bridge. What happened as a result?", "O": "(A) He felt terrified. (B) He felt ecstatic.", "A": "(A)"}
+{"index": 999, "Q": "The man anticipated the team's victory. What happened as a result?", "O": "(A) He met his friends to watch the game. (B) He made a bet with his friends.", "A": "(B)"}
+{"index": 1000, "Q": "The boy couldn't fall asleep. What happened as a result?", "O": "(A) He set his alarm clock. (B) He counted sheep.", "A": "(B)"}
