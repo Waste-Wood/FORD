@@ -53,7 +53,7 @@ def hyper_parameters():
 
     parser.add_argument('--candidate', type=str, default='./')
     parser.add_argument('--dataset', type=str, default='anli')
-    parser.add_argument('--api', type=str, default='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')
+    parser.add_argument('--api', type=str, default='')
     parser.add_argument('--model', type=str, default='gpt-4')
     parser.add_argument('--mode', type=str, default='debate')
 
