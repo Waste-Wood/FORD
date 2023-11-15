@@ -1,5 +1,5 @@
 # Introduction
-This repo is the coda and data of the paper: [Examining Inter-Consistency of Large Language Models Collaboration:
+This repo contain the code and data of the paper: [Examining Inter-Consistency of Large Language Models Collaboration:
 An In-depth Analysis via Debate](https://arxiv.org/abs/2305.11595).
 
 To examine whether LLMs can collaborate to ultimately achieve a consensus for the shared goal and whether LLMs easily change their viewpoints, we introduce a Formal Debate framework (FORD) With FORD, we conduct a three-stage debate aligned with real-world scenarios: fair debate, mismatched debate, and roundtable debate. More details can refer to our paper.
