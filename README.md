@@ -40,7 +40,7 @@ To examine whether LLMs can collaborate to ultimately achieve a consensus for th
 
 # Citation
 If you want to cite our paper, please use the following bibtex:
-```shell
+```
 @inproceedings{xiong2023examining,
   title={Examining Inter-Consistency of Large Language Models Collaboration: An In-depth Analysis via Debate},
   author={Xiong, Kai and Ding, Xiao and Cao, Yixin and Liu, Ting and Qin, Bing},
