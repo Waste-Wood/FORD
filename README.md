@@ -1,6 +1,6 @@
 # Introduction
 This repo contain the code and data of the paper: [Examining Inter-Consistency of Large Language Models Collaboration:
-An In-depth Analysis via Debate](https://arxiv.org/abs/2305.11595).
+An In-depth Analysis via Debate](https://aclanthology.org/2023.findings-emnlp.508/).
 
 To examine whether LLMs can collaborate to ultimately achieve a consensus for the shared goal and whether LLMs easily change their viewpoints, we introduce a Formal Debate framework (FORD) With FORD, we conduct a three-stage debate aligned with real-world scenarios: fair debate, mismatched debate, and roundtable debate. More details can refer to our paper.
 
@@ -41,11 +41,11 @@ To examine whether LLMs can collaborate to ultimately achieve a consensus for th
 # Citation
 If you want to cite our paper, please use the following bibtex:
 ```shell
-@article{xiong2023examining,
-  title={Examining the Inter-Consistency of Large Language Models: An In-depth Analysis via Debate},
+@inproceedings{xiong2023examining,
+  title={Examining Inter-Consistency of Large Language Models Collaboration: An In-depth Analysis via Debate},
   author={Xiong, Kai and Ding, Xiao and Cao, Yixin and Liu, Ting and Qin, Bing},
-  journal={arXiv e-prints},
-  pages={arXiv--2305},
+  booktitle={Findings of the Association for Computational Linguistics: EMNLP 2023},
+  pages={7572--7590},
   year={2023}
 }
 ```
